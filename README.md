@@ -117,8 +117,3 @@ I believe that trying to meet your targets requires a lot of effort. However, th
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kahawalage/kahawalage/output/snake.svg" alt="Snake animation" />
-
-###
