@@ -1,6 +1,9 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Ayesh and I'm a fullstack developer from Innertelligence.</h2>
+<h2 align="left">Hi there 👋, I'm Ayesh Kahawalage</h2>
+
+<p align="left">I'm a passionate fullstack developer at <strong>InnerTelligence</strong> with a strong focus on backend architecture, scalable frontend design, and end-to-end system integrations. I thrive at the intersection of problem-solving and creativity, and love building impactful digital solutions.</p>
+
 
 ###
 
@@ -112,4 +115,3 @@
 </div>
 
 ###
-
