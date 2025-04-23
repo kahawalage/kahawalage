@@ -19,8 +19,6 @@ I believe that trying to meet your targets requires a lot of effort. However, th
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/C5603AQFZA6wLLuKPxQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1622953589074?e=1750896000&v=beta&t=5AIq88QDYZJTMg-7DTk9_dWyBu1fsXoHDn7lRhQfBfQ"  />
-
 ###
 
 <div align="left">
