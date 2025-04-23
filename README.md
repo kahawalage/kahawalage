@@ -1,6 +1,8 @@
 <h2 align="left">Hi there 👋, I'm Ayesh Kahawalage</h2>
 
-<p align="left">I'm a passionate fullstack developer at <strong>InnerTelligence</strong> with a strong focus on backend architecture, scalable frontend design, and end-to-end system integrations. I thrive at the intersection of problem-solving and creativity, and love building impactful digital solutions.</p>
+<p align="left">I am currently working as a Fullstack developer for InnerTelligence Aust Pty, having experience in coding, testing for desktop computers, mobile and cloud integrations. Strong in design and integration with intuitive problem-solving skills with the ability to translate business requirements into technical solutions. I also have gained experience in Databases, Artificial Intelligence, Software Engineering, and Networks.
+I am a self-motivated and reliable worker with excellent organizational skills, competent in managing time and prioritizing tasks. I believe I have great interpersonal skills, where I can efficiently as well as successfully work both in teams or as an individual. Due to the fact that I am a socialized person, I love meeting new people and getting in touch with them. Apart from these, I love technology and especially Computer Science.
+I believe that trying to meet your targets requires a lot of effort. However, these targets can be achieved through an atmosphere and culture of teamwork, fun, and promoting self-actualization.</p>
 
 ###
 
