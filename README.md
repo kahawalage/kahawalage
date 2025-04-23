@@ -113,8 +113,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kahawalage/kahawalage/output/snake.svg" alt="Snake animation" />
-
-###
